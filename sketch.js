@@ -156,6 +156,7 @@ function draw() {
   text("Drag the hexagon behind, then release.",50,50);
   text("Turns: " +Turns,700,300);
   text("Press 'N' or'Space' To get a new hexagon.",700,50);
+  text("Destroy the towers and win the battle!!!!",700,300);
 
 }
 
